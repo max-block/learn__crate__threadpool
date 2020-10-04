@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "learn__crate__threadpool"
+name = "learn"
 version = "0.1.0"
 dependencies = [
  "threadpool",

@@ -22,7 +22,6 @@ fn main() {
     }
     drop(tx);
 
-    for r in rx {
-        dbg!(r);
-    }
+    let res: Vec<_> = rx.iter().collect();
+    dbg!(res);
 }

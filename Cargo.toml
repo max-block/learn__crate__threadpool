@@ -1,7 +1,7 @@
 [package]
 authors = ["Max Block <maxblock@pm.me>"]
 edition = "2018"
-name = "learn__crate__threadpool"
+name = "learn"
 version = "0.1.0"
 
 [dependencies]
